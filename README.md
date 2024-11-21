@@ -27,7 +27,11 @@ My disabilities </br>
 - NEXTJS
 
   - [x] New nextjs app (latest version)
+<<<<<<< HEAD
   - [x] App/project structure (app router)
+=======
+  - [ ] App/project structure (app router)
+>>>>>>> upstream/main
   - [ ] Remove unecessary/unused components/styling
   - [ ] Install Packages/dependencies
     - [ ] Motion (animation)
@@ -41,6 +45,7 @@ My disabilities </br>
 - [ ] Improvise app router
 
 ```
+<<<<<<< HEAD
 jje/
 ├──design/
 │  └──design.png
@@ -72,6 +77,8 @@ jje/
 │  ├──tailwind.config.ts
 │  └──tsconfig.json
 └──README.md
+=======
+>>>>>>> upstream/main
 ```
 
 - FRONT-END UI/UX (Figma/Photoshop)
